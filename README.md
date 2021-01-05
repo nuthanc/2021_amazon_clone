@@ -1,5 +1,8 @@
 # 2021 My Amazon clone
 
+### Aim
+* Get same functionality as Amazon clone by CleverProgrammer
+
 ### Reference materials
 * https://github.com/nuthanc/react-challenge-amazon-clone
 * https://github.com/nuthanc/node_react_server/tree/master/client
