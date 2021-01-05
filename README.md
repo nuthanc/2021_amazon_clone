@@ -5,6 +5,7 @@
 * https://github.com/nuthanc/node_react_server/tree/master/client
 * https://github.com/nuthanc/react/tree/master/streams/client/src
 * https://github.com/nuthanc/ReactJiraClone
+* https://medium.com/cleverprogrammer/amazon-clone-using-react-the-ultimate-guide-fba2b36f3458
 
 ### Project start
 ```sh
