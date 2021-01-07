@@ -13,4 +13,20 @@
 ### Project start
 ```sh
 npx create-react-app my-amazon-clone
+npm install tachyons@4.12.0
 ```
+
+### Components 
+* App: Main
+* Header
+* ProductList
+* ProductItem
+* CheckoutProduct
+* Checkout
+* Login
+* Orders
+* Payment
+* Subtotal
+
+### App
+* App shows Header, ProductList
